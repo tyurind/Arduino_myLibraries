@@ -15,6 +15,9 @@ https://mcudude.github.io/MicroCore/package_MCUdude_MicroCore_index.json
 https://dl.espressif.com/dl/package_esp32_index.json
 ```
 
+See:  https://github.com/digistump/DigistumpArduino
+
+
 ### Install
 
 Проблемы с digispark
